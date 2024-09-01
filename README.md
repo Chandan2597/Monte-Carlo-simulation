@@ -9,4 +9,4 @@ We have a defined formula for calculating commissions and we likely have some ex
 
 This problem is important from a business perspective. Sales commissions can be a large selling expense and it is important to plan appropriately for this expense.
 
-Check the project for more insights https://github.com/Chandan2597/Monte-Carlo-simulation/blob/main/Project%20-%20Monte%20Carlo%20Simulation.ipynb
+Check the project for more information https://github.com/Chandan2597/Monte-Carlo-simulation/blob/main/Project%20-%20Monte%20Carlo%20Simulation.ipynb
